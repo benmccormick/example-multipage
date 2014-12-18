@@ -5,5 +5,11 @@
     "dependencies": {
       "jquery": "github:jquery/jquery/1.7.2"
     }
+  },
+  "devDependencies": {
+    "requirejs": "2.1.15",
+    "lodash": "^2.4.1",
+    "del": "^1.1.0",
+    "chokidar": "^0.11.1"
   }
 }
